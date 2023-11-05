@@ -27,3 +27,5 @@ Ans - To comment html tag we use <!-- -->
 
 2. How to create a hyperlink ?
  The <a> tag defines a hyperlink
+
+
